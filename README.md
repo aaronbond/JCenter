@@ -4,8 +4,8 @@ Add the following to the end of the library module build.gradle file to access t
 
 ```
 // Place it at the end of the file
-apply from: 'https://raw.githubusercontent.com/nisrulz/JCenter/master/installv1.gradle'
-apply from: 'https://raw.githubusercontent.com/nisrulz/JCenter/master/bintrayv1.gradle'
+apply from: 'https://raw.githubusercontent.com/aaronbond/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/aaronbond/JCenter/master/bintrayv1.gradle'
 ```
 
 # License
